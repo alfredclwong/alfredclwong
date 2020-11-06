@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredclwong&theme=nord&exclude_repo=4b25-tetris&layout=compact&langs_count=8)
+
 <!--
 **alfredclwong/alfredclwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
